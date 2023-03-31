@@ -1,6 +1,6 @@
 Name:		texlive-ligtype
 Version:	63577
-Release:	1
+Release:	2
 Summary:	Comprehensive ligature suppression functionalities
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ligtype

@@ -3,7 +3,7 @@ Version:	67601
 Release:	1
 Summary:	Comprehensive ligature suppression functionalities
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ligtype
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ligtype
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ligtype.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ligtype.doc.r%{version}.tar.xz
